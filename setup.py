@@ -7,7 +7,7 @@ setup(
     description='Util package for HAM10000 dataset',
     author='Markus Monz',
     install_requires=[
-        'pandas >= 1.2.0',
+        'pandas >= 1.1.4',
     ],
     license='MIT',
 )
